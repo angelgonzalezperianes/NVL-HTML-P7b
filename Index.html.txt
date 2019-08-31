@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+ <head>
+   <meta charset="utf-8">
+   <title>Diccionario</title>
+ </head>
+ <body>
+   <h1>Diccionario del coriano</h1>
+    <a href="#Terminos-con-A">Términos con A</a>
+    <a href="#Terminos-con-B">Términos con B</a>
+    <a href="#terminos-con-C">Términos con C</a>
+    <a href="#Terminos-con-D">Términos con D</a>
+    <a href="#Terminos-con-E">Términos con E</a>
+    <a href="#Terminos-con-E">Términos con F</a>
+    <a href="#Terminos-con-E">Términos con G</a>
+    <a http://eldiccionariodeuncoriano.blogspot.com#Galandaina">Términos con G</a
+   
+    <a name="Terminos-con-A"></a> 
+    <p>Acochambrao. Algo mal hecho; que está en malas condiciones.</p>
+    <p>Achantao. Quedarse callado, inmóvil o reprimido, en espera de que transcurra una situación de peligro provocada por uno mismo o alguien ajeno.</p>
+    <p>Ahinarse (ajinarse). Ahogarse, apurarse o estar afligido por el trabajo o por alguna preocupación.<p>
+    <a name="Terminos-con-B"></a>
+    <p>Bochinche. Sorbo de agua o de otro líquido que se contiene dentro de la boca, normalmente para enjuagarse.</p>
+    <p>Boqueáh (boqueás). Estado de las personas o de las cosas que se encuentran en las últimas, a punto de acabar o desfallecer; así se usa la frase está dando las boqueás  ║ Boqueadas.</p>
+    <p>Bureo. Jolgorio, parranda; suele decirse irse de bureo para significar que se va uno de juerga.</p>   
+    <a name="Terminos-con-C"></a>
+    <p>Cachaza. Falta de capacidad, desgana o apatía para hacer cualquier cosa ║ Actitud parsimoniosa, pachorra.</p>
+    <p>Café bebío (Café bebido). Hábito o costumbre que se tiene de desayunar un simple café o café con leche, sin acompañarlo de alimento sólido, ni fruta, ni otro líquido. ║ Café que se toma aprisa, en un momento a destiempo y de forma precipitada, para despejar y aclarar la cabeza antes de comenzar las ocupaciones personales. Se dice “me tomo solo un café bebío”. ║ “Café sin más”.</p>
+    <p>Calamochazo. Caída grande con golpe en la cabeza ║ Porrazo, batacazo.</p>
+    <a name="Terminos-con-D"></a>
+    <p>Dehcuajaringar (descuajaringar). Desarmarse o descomponerse la estructura de algo ║ Eschambarilarse la integridad de una cosa; desfandingar, descuajeringar, desguadramiyar.</p>
+    <p>Dehfandingar (desfandingar). Efecto de alterarse o descomponerse la estructura de un objeto, mueble o mecanismo, deshaciéndose su integridad, separándose, incluso, todos sus componentes ║ Estropear, descuajaringar, desguadramiyar, desvencijar.</p>
+    <a name="Terminos-con-E"></a> 
+    <p>Ehcachuflar (escachuflar). Deshacerse algo preparado con paciencia y esmero; descomponerse una pieza o mecanismo pequeño y delicado ║ Estropearse o desfandingarse un mecanismo o artilugio; suele decirse ya lo escachuflaste ║ Deshacer la buena presentación de una vianda.</p>
+    <p>Ehcaldón (escaldón). Contestación o actitud que se toma contra una persona con tal dureza y severidad que ésta queda escarmentada o pasmada y ofendida, por lo que suele decirse ¡vaya escaldón que le dio! ║ Sinónimo de refregón.</p>
+    <a name="Terminos-con-F"></a> 
+    <p>Furriona. Juerga, diversión, fiesta, comilona ║ Parranda, jarana, farra; se dice estuvo toda la noche de furriona.</p>
+    <a name="Galandaina"></a>  
+</body>
+</html>
+
+
